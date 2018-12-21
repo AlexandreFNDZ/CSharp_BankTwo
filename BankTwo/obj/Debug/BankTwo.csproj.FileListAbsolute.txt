@@ -1,0 +1,5 @@
+C:\Users\alexandre.pereira\Documents\Projetos\CSharp\BankTwo\BankTwo\obj\Debug\BankTwo.csprojResolveAssemblyReference.cache
+C:\Users\alexandre.pereira\Documents\Projetos\CSharp\BankTwo\BankTwo\bin\Debug\BankTwo.exe
+C:\Users\alexandre.pereira\Documents\Projetos\CSharp\BankTwo\BankTwo\bin\Debug\BankTwo.pdb
+C:\Users\alexandre.pereira\Documents\Projetos\CSharp\BankTwo\BankTwo\obj\Debug\BankTwo.exe
+C:\Users\alexandre.pereira\Documents\Projetos\CSharp\BankTwo\BankTwo\obj\Debug\BankTwo.pdb
